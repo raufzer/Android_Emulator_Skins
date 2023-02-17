@@ -5,8 +5,8 @@
 #    • Installation
     To use these skins, you will need to have the Android SDK installed on your computer. Once you have the SDK
     installed, you can download the skins by following these steps:
-    <br>
-    <b>1.</b>Open the Android SDK Manager
+
+1.Open the Android SDK Manager
     <br>
     <b>2.</b>Go to the "SDK Platforms" tab
     <br>
