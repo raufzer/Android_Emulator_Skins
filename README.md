@@ -1,5 +1,4 @@
 
-<body>
     <h1>• Google Android Emulator Skins</h1>
     This repository contains a collection of official Android emulator skins provided by Google. These skins allow you
     to test your apps on different device configurations without needing to own the physical devices themselves.
@@ -49,6 +48,3 @@
     <h1>• License</h1>
     All the skins in this repository are provided by Google and are licensed under the Apache 2.0 License. You can find
     a copy of the license in the LICENSE file.</h1>
-</body>
-
-</html>
