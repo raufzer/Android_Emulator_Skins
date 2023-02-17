@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+
 
 <body>
     <h1>• Google Android Emulator Skins</h1>
