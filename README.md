@@ -25,7 +25,7 @@
     Once you have created the virtual device, you can start it up and test your app on it just like you would with a
     physical device.
 
-# • Contributing<
+# • Contributing
     If you have created a custom Android emulator skin that you would like to share, feel free to contribute it to this
     repository. To do so, follow these steps:
 
@@ -34,6 +34,6 @@
     Add your skin to the appropriate folder
     Commit your changes and push them to your fork
     Open a pull request
-# • License
+## • License
     All the skins in this repository are provided by Google and are licensed under the Apache 2.0 License. You can find
     a copy of the license in the LICENSE file.
