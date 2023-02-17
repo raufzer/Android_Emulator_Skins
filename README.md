@@ -6,19 +6,13 @@
     To use these skins, you will need to have the Android SDK installed on your computer. Once you have the SDK
     installed, you can download the skins by following these steps:
 
-1.Open the Android SDK Manager
-    <br>
+    <b>1.Open the Android SDK Manager
     <b>2.</b>Go to the "SDK Platforms" tab
-    <br>
     <b>3.</b>Select the version of Android you want to test your app on
-    <br>
     <b>4.</b>Go to the "SDK Skins" tab
-    <br>
     <b>5.</b>Select the skin you want to download
-    <br>
     <b>6.</b>Click the "Install" button
-    <br>
-# • Usage</h1>
+# • Usage
     To use these skins with the Android emulator, you will need to create a new virtual device using the skin. To do
     this, follow these steps:
     <br>
