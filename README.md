@@ -1,4 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
     <h1>• Google Android Emulator Skins</h1>
     This repository contains a collection of official Android emulator skins provided by Google. These skins allow you
     to test your apps on different device configurations without needing to own the physical devices themselves.
@@ -48,3 +58,6 @@
     <h1>• License</h1>
     All the skins in this repository are provided by Google and are licensed under the Apache 2.0 License. You can find
     a copy of the license in the LICENSE file.</h1>
+</body>
+
+</html>
